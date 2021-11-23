@@ -101,7 +101,7 @@ while running: #Trong khi chơi:
                 x_velocity = 5 #pixel per frame
                 y_jump = 7 #Độ cao để nhảy
 
-                jump=False
+                jump=False    
                 pausing=False
 
                 score=0
